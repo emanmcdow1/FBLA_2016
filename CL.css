@@ -1,0 +1,37 @@
+.how {
+	background-image:url(Graphics/PageGraph/Loyalty_How.fw.png);
+	width: 100%;
+	height: 700px;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.how:hover {
+	background-image: url(Graphics/PageGraph/Loyalty_How_After.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.need {
+	background-image:url(Graphics/PageGraph/Loyalty_Need.fw.png);
+	width: 100%;
+	height: 700px;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.need:hover {
+	background-image: url(Graphics/PageGraph/Loyalty_Need_After.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.CLform {
+	background-image: url(Graphics/PageGraph/CLformbg.fw.png);
+	width: 100%;
+	height: 700px;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+	
+	

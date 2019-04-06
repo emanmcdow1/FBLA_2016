@@ -1,0 +1,56 @@
+/*CSS FOR CONTACT PAGE */
+.location {
+	background-image: url("Graphics/PageGraph/ContactUs_Location_before.fw.png");
+	width: 100%;
+	height: 500px;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.location:hover {
+	width: 100%;
+	height: 500px;
+	background-image:url("Graphics/PageGraph/ContactUs_Location.fw.png");
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.phonenumber {
+	background-image: url("Graphics/PageGraph/ContactUs_Phone_before.fw.png");
+	width: 100%;
+	height: 500px;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.phonenumber:hover {
+	width: 100%;
+	height: 500px;
+	background-image: url("Graphics/PageGraph/ContactUs_Phone.fw.png");
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;	
+	}
+
+.hours {
+	width: 100%;
+	height: 500px;
+	background-image: url("Graphics/PageGraph/ContactUs_Hours_before.fw.png");
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.hours:hover {
+	width: 100%;
+	height: 500px;
+	background-image: url("Graphics/PageGraph/ContactUs_Hours.fw.png");
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat; 
+	}
+
+.section4 {
+	width: 100%;
+	height: 500px;
+	}

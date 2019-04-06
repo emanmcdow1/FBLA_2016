@@ -1,0 +1,25 @@
+.zagat {
+	width: 100%;
+	height: 700px;
+	background-image:url(Graphics/PageGraph/ZagatAfter.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.SM {
+	background-image:url(Graphics/PageGraph/About-SM.fw.png);
+	width: 100%;
+	height: 700px;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+	
+.reviewsubmit {
+	background-image:url(Graphics/PageGraph/reviewformbg.fw.png);
+	width: 100%;
+	height: 700px;
+	}
+
+

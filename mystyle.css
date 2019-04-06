@@ -1,0 +1,58 @@
+
+body {
+	font-family: "Raleway", serif;
+	max-width: 100%;
+	}
+	
+.banner {
+	width: 100%;
+	margin-left: auto; 
+	margin-right: auto;
+	}
+.form {
+	font-size: 15px;
+	color: black;
+	font-family: "Raleway", serif;
+	}
+.formmain{
+	text-align: center;
+	font-family: "Raleway", serif;
+	}
+p {
+	font-size: 15px;
+	font-family: "Raleway", serif;
+	color: white;
+	}
+.submitreview {
+	background-image:url(Graphics/PageGraph/submitreviewgraphic.fw.png);
+	margin-left: auto;
+	margin-right: auto;
+	width: 1250px;
+	height: 700px;
+	}
+	
+.site-wrapforreview {
+  /* Critical position and size styles */
+  height: 100%;
+  width: 100%;
+  background-image: url(Graphics/dtatl.jpg);
+  position: relative;
+  top: 0;
+  bottom: 100%;
+  left: 0;
+  z-index: 0;
+  
+  /* non-critical apperance styles */
+  padding: 100em;
+  background-size: 200%;
+}
+
+li {
+	font-family: "Raleway", serif;
+	}
+.bottom {
+	width: 835px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	}

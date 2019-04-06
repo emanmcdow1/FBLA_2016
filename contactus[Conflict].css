@@ -1,0 +1,32 @@
+/*CSS FOR CONTACT PAGE */
+.location {
+	background-image:url("Graphics/PageGraph/ContactUs_Location.fw.png");
+	width: auto;
+	height: 500px;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	}
+	
+.phonenumber {
+	background-image: url("Graphics/PageGraph/ContactUs_Phone.fw.png");
+	width: auto;
+	height: 500px;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.hours {
+	width: auto;
+	height: 500px;
+	background-image: url("Graphics/PageGraph/ContactUs_Hours.fw.png");
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.section4 {
+	width: 500px;
+	height: 700px;
+	}

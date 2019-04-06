@@ -1,0 +1,120 @@
+.sandwiches {
+	width: 100%;
+	height: 700px;
+	background-image:url(Graphics/PageGraph/MenuSandwichesBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+.sandwiches:hover {
+	background-image:url(Graphics/PageGraph/MenuSandwiches.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.soups {
+	width: 100%;
+	background-image:url(Graphics/PageGraph/MenuSoupsBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 700px;
+	}
+	
+.soups:hover {
+	transition: background .3s ease-in;
+	background-image:url(Graphics/PageGraph/MenuSoups.fw.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.muffins {
+	width: 100%;
+	background-image:url(Graphics/PageGraph/MenuMuffinsBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 700px;
+	}
+.muffins:hover {
+	transition: background .3s ease-in;
+	background-image:url(Graphics/PageGraph/MenuMuffins.fw.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+	
+.bagels {
+	width: 100%;
+	background-image:url(Graphics/PageGraph/MenuBagelsBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 700px;
+	}
+.bagels:hover {
+	transition: background .3s ease-in;
+	background-image:url(Graphics/PageGraph/MenuBagels.fw.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+	
+.cupcakes {
+	width: 100%;
+	background-image:url(Graphics/PageGraph/MenuCupcakesBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 700px;
+	}
+.cupcakes:hover {
+	transition: background .3s ease-in;
+	background-image:url(Graphics/PageGraph/MenuCupcakes.fw.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.drinks {
+	width: 100%;
+	background-image:url(Graphics/PageGraph/MenuDrinksBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 700px;
+	}
+.drinks:hover {
+	transition: background .3s ease-in;
+	background-image:url(Graphics/PageGraph/MenuDrinks.fw.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.cookies {
+	width: 100%;
+	background-image:url(Graphics/PageGraph/MenuCookiesBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 700px;
+	}
+.cookies:hover {
+	transition: background .3s ease-in;
+	background-image:url(Graphics/PageGraph/MenuCookie.fw.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.pastries {
+	width: 100%;
+	background-image:url(Graphics/PageGraph/MenuPastriesBefore.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 700px;
+	}
+.pastries:hover {
+	transition: background .3s ease-in;
+	background-image:url(Graphics/PageGraph/MenuPastries.fw.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}

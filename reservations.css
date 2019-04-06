@@ -1,0 +1,25 @@
+.inst {
+	width: 100%;
+	height: 500px;
+	background-image:url(Graphics/PageGraph/ReservationInst.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.phone {
+	width: 100%;
+	height: 500px;
+	background-image:url(Graphics/PageGraph/ReservePhone.fw.png);
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
+
+.reservationsformbg {
+	background-image:url(Graphics/PageGraph/reservationsformbg.fw.png);
+	width: 100%;
+	height: 700px;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	}
