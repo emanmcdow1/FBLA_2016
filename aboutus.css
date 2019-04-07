@@ -1,60 +1,42 @@
-.aboutwhat {
+#aboutwhat {
 	background-image:url(Graphics/PageGraph/About-What_before.fw.png);
-	width: 100%;
-	height: 700px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-.aboutwhat:hover {
+#aboutwhat:hover {
 	background-image:url(Graphics/PageGraph/About-What.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-size: 100%;
 	background-repeat:no-repeat;
 	}
 
-.aboutwhy {
+#aboutwhy {
 	background-image:url(Graphics/PageGraph/About-Why-before.fw.png);
-	width: 100%;
-	height: 700px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
+
 	}
-.aboutwhy:hover {
+#aboutwhy:hover {
 	background-image: url(Graphics/PageGraph/About-Why.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-size: 100%;
 	background-repeat:no-repeat;
 	}
 
-.abouthistory {
+#abouthistory {
 	background-image:url(Graphics/PageGraph/About-History_before.fw.png);
-	width: 100%;
-	height: 700px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
+
 	}
-.abouthistory:hover {
+#abouthistory:hover {
 	background-image:url(Graphics/PageGraph/About-History.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
+
 	}
-.aboutSM {
+#aboutSM {
 	background-image:url(Graphics/PageGraph/About-sm_before.fw.png);
-	width: 100%;
-	height: 700px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
+
 	}
-.aboutSM:hover {
+#aboutSM:hover {
 	background-image:url(Graphics/PageGraph/About-SM.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-size: 100%;
 	background-repeat:no-repeat;
 	}
-
-

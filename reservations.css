@@ -1,16 +1,20 @@
-.inst {
-	width: 100%;
+#inst {
+	width: 700px;
 	height: 500px;
+	margin: 10px;
 	background-image:url(Graphics/PageGraph/ReservationInst.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-size: 100%;
 	background-repeat:no-repeat;
 	}
 
-.phone {
-	width: 100%;
+#phone {
+	width: 700px;
 	height: 500px;
+	margin: 10px;
 	background-image:url(Graphics/PageGraph/ReservePhone.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-size: 100%;
 	background-repeat:no-repeat;

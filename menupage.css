@@ -1,120 +1,82 @@
-.sandwiches {
-	width: 100%;
+.menupageitem{
+	width: 90%;
 	height: 700px;
+	margin: 10px;
+	-webkit-transition: background .3s ease-in;
+	transition: background .3s ease-in;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#sandwiches {
 	background-image:url(Graphics/PageGraph/MenuSandwichesBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-.sandwiches:hover {
+#sandwiches:hover {
 	background-image:url(Graphics/PageGraph/MenuSandwiches.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
 
-.soups {
-	width: 100%;
+#soups {
 	background-image:url(Graphics/PageGraph/MenuSoupsBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	height: 700px;
 	}
-	
-.soups:hover {
+
+#soups:hover {
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-image:url(Graphics/PageGraph/MenuSoups.fw.png);
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
 
-.muffins {
-	width: 100%;
+#muffins {
 	background-image:url(Graphics/PageGraph/MenuMuffinsBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	height: 700px;
 	}
-.muffins:hover {
+#muffins:hover {
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-image:url(Graphics/PageGraph/MenuMuffins.fw.png);
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-	
-.bagels {
-	width: 100%;
+
+#bagels {
 	background-image:url(Graphics/PageGraph/MenuBagelsBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	height: 700px;
 	}
-.bagels:hover {
+#bagels:hover {
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-image:url(Graphics/PageGraph/MenuBagels.fw.png);
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-	
-.cupcakes {
-	width: 100%;
+
+#cupcakes {
 	background-image:url(Graphics/PageGraph/MenuCupcakesBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	height: 700px;
 	}
-.cupcakes:hover {
+#cupcakes:hover {
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-image:url(Graphics/PageGraph/MenuCupcakes.fw.png);
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
 
-.drinks {
-	width: 100%;
+#drinks {
 	background-image:url(Graphics/PageGraph/MenuDrinksBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	height: 700px;
 	}
-.drinks:hover {
+#drinks:hover {
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-image:url(Graphics/PageGraph/MenuDrinks.fw.png);
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
 
-.cookies {
-	width: 100%;
+#cookies {
 	background-image:url(Graphics/PageGraph/MenuCookiesBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	height: 700px;
 	}
-.cookies:hover {
+#cookies:hover {
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-image:url(Graphics/PageGraph/MenuCookie.fw.png);
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
 
-.pastries {
-	width: 100%;
+#pastries {
 	background-image:url(Graphics/PageGraph/MenuPastriesBefore.fw.png);
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	height: 700px;
 	}
-.pastries:hover {
+#pastries:hover {
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-image:url(Graphics/PageGraph/MenuPastries.fw.png);
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}

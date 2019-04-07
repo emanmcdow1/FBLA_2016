@@ -1,21 +1,25 @@
-.zagat {
-	width: 100%;
+#zagat {
+	width: 700px;
 	height: 500px;
+	margin: 10px;
 	background-image:url(Graphics/PageGraph/ZagatAfter.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-size: 100%;
 	background-repeat:no-repeat;
 	}
 
-.SM {
+#SM {
 	background-image:url(Graphics/PageGraph/About-SM.fw.png);
-	width: 100%;
+	width: 700px;
 	height: 500px;
+	margin: 10px;
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
 	background-size: 100%;
 	background-repeat:no-repeat;
 	}
-	
+
 .reviewsubmit {
 	background-image:url(Graphics/PageGraph/reviewformbg.fw.png);
 	width: 100%;
@@ -23,5 +27,3 @@
 	background-size: 100%;
 	background-repeat: no-repeat;
 	}
-
-

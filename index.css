@@ -1,104 +1,83 @@
 
-.menu {
+#box{
+	width: 100%;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-ms-flex-line-pack: start;
+	    align-content: flex-start;
+}
+
+.menuitem{
+	width: 700px;
+	height: 500px;
+	margin: 10px;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	-webkit-transition: background .3s ease-in;
+	transition: background .3s ease-in;
+}
+
+#menu {
 	background-image:url(Graphics/PageGraph/MenuB.fw.png);
-	height: auto; 
-    width: auto; 
-    max-width: 500px; 
-    max-height: 700px;
+
 	}
-/*.menu:hover {
+#menu:hover {
 	background-image: url(Graphics/PageGraph/MenuA.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
-	height: auto; 
-    width: auto; 
-    max-width: 500px; 
-    max-height: 700px;
 	}
-/*.CL {
+
+#CL {
 	background-image:url(Graphics/PageGraph/CustormerLoyaltyB.fw.png);
-	width: 45%;
-	height: 500px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	position: absolute;
-	left: 50%;
-	bottom: 500px;
 	}
-.CL:hover {
+#CL:hover {
 	background-image: url(Graphics/PageGraph/CustomerLoyaltyA.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
-	width: 45%;
-	height: 500px;
-	background-size: 100%;
-	background-repeat:no-repeat;
-	position: absolute;
-	left: 50%;
-	bottom: 500px;
 	}
-	
-/*	
-.reservations {
+
+#reservations {
 	background-image:url(Graphics/PageGraph/ReservationsB.fw.png);
-	width: 100%;
-	height: 500px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-.reservations:hover {
+#reservations:hover {
 	background-image:url(Graphics/PageGraph/ReservationsA.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
-	width: 100%;
-	height: 500px;
-	background-size: 100%;
-	background-repeat:no-repeat; 
 	}
-.reviews {
+
+#reviews {
 	background-image:url(Graphics/PageGraph/ReviewsB.fw.png);
-	width: 100%;
-	height: 500px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-.reviews:hover {
+#reviews:hover {
 	background-image: url(Graphics/PageGraph/ReviewsA.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
-	width: 100%;
-	height: 500px;
-	background-size: 100%;
-	background-repeat:no-repeat; 
 	}
-.contactus {
+
+#contactus {
 	background-image:url(Graphics/PageGraph/ContactB.fw.png);
-	width: 100%;
-	height: 500px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-.contactus:hover {
+#contactus:hover {
 	background-image: url(Graphics/PageGraph/ContactA.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
-	width: 100%;
-	height: 500px;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-.aboutus {
+
+#aboutus {
 	background-image: url(Graphics/PageGraph/AboutUsB.fw.png);
-	width: 100%;
-	height: 500px;
-	transition: background .3s ease-in;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
-.aboutus:hover {
+#aboutus:hover {
 	background-image: url(Graphics/PageGraph/AboutUsA.fw.png);
+	-webkit-transition: background .3s ease-in;
 	transition: background .3s ease-in;
-	width: 100%;
-	height: 500px;
-	background-size: 100%;
-	background-repeat:no-repeat;
 	}
